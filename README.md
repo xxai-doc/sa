@@ -4,7 +4,7 @@
 
 वेबसाइट् इत्यस्य अग्रभागस्य कोडः मुक्तस्रोतः अस्ति, अनुवादस्य अनुकूलनार्थं सहायतार्थं स्वागतम्
 
-* [अग्र-अन्त-सङ्केतः](https://github.com/xxai-art/web)
+* [अग्रभाग कोड](https://github.com/xxai-art/web)
 * [समग्ररूपेण साइट् कृते भाषापैक्](https://github.com/xxai-art/web/tree/main/i18n)
 * [प्रवेशमॉड्यूलानां कृते भाषापैक्](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [वेबसाइट बहुभाषी दस्तावेजीकरण](https://github.com/xxai-doc)
